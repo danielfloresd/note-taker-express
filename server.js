@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3001;
 
 const { isModuleNamespaceObject } = require('util/types');
 // Load db.json file
-const db = [];
+let db = [];
 // Load db.json file
 try {
     db = require('./db/db.json');
