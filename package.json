@@ -7,6 +7,15 @@
     "start": "node server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "16.x"
+  },
+  "keywords": [
+    "Node.js",
+    "express",
+    "JavaScript",
+    "bootstrap"
+  ],
   "author": "Daniel Flores",
   "license": "MIT",
   "dependencies": {
