@@ -1,6 +1,7 @@
 # Quick Notes Taker
 
 [![GitHub github:](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit)
+[![DeepScan grade](https://deepscan.io/api/teams/19657/projects/23147/branches/692462/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=19657&pid=23147&bid=692462)
 ## Description   
 <p>
 This web application provides the user the ability to quickly create notes, update and delete notes and to store them in a cloud server when they can be accesed from anywhere.
