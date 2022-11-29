@@ -3,7 +3,7 @@
 [![GitHub github:](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit)[![DeepScan grade](https://deepscan.io/api/teams/19657/projects/23147/branches/692462/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=19657&pid=23147&bid=692462)
 ## Description   
 <p>
-This web application provides the user the ability to quickly create notes, update and delete notes and to store them in a cloud server when they can be accesed from anywhere.
+This web application provides the user the ability to quickly create notes, update and delete notes and to store them in a cloud server where they can be accesed from anywhere.
 </p>
 
 ## Table of contents
@@ -72,8 +72,6 @@ If you would like to contribute, please follow the [GitHub contribution guidelin
 ## 📃Tests  
 Testing implemented using jest. To run unit testing <strong>npm test</strong>
 
-<img src="./public/images/test.PNG" width="800"><img>
-
 ## ❓Questions   
 <p> 
 Question 1: Does the application support additional styling? Yes, the style can be customized in the style.css file.
@@ -88,10 +86,10 @@ For additional questions, please contact:
 To use the live web app, please visit the [Quick Notes Taker](https://quick-notes-taker.herokuapp.com/)  
 
 ## 👨‍💻Programming Languages    
-This project was created with: HTML, CSS, and JavaScript   
+This project was created with: HTML, CSS, and JavaScript.   
 
 ## 👨Credits
-
+Started code provided by the University of Arizona bootcamp.
 
 <!-- ## User Story
 
