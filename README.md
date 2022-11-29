@@ -1,18 +1,12 @@
 # Quick Notes Taker
 
 [![GitHub github:](https://img.shields.io/badge/license-MIT-blue.svg)](https://choosealicense.com/licenses/mit)
+
+[![DeepScan grade](https://deepscan.io/api/teams/19657/projects/23147/branches/692462/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=19657&pid=23147&bid=692462)
 ## Description   
 <p>
 This web application provides the user the ability to quickly create notes, update and delete notes and to store them in a cloud server when they can be accesed from anywhere.
 </p>
-
-<p><strong>🎥Click on video to view🎥</strong></p>
-
-<a href="https://drive.google.com/file/d/1qTWG7uddcVcrCi7xVT3yNl4vStEt5ZMf/view?usp=share_link" target="_blank">
-<img src="./public/images/video.PNG" width="640" height="480"></img>
-</a>
-
-Download Video in <a href="./public/images/video.webm">webm</a> or <a href="./public/images/video.mp4">mp4</a>
 
 ## Table of contents
 
@@ -31,8 +25,6 @@ Download Video in <a href="./public/images/video.webm">webm</a> or <a href="./pu
 ## 🛠️Installation    
 <p>To install the application clone the repository https://github.com/danielfloresd/quick-notes-taker and run node package manager with the following command: <strong>npm i</strong>    
 </p>      
-<!-- <img src="./public/images/install.PNG" width="800"><img> -->
-
 
 ## 💻Usage    
 
